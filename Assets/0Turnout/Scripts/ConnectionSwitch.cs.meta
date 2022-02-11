@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 022a36cb33d1583458122bdada83a631
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - splineController: {instanceID: 0}
+  - switchPrefab: {fileID: 7250006246727600487, guid: fe09ec729ec32784c89d4e986333af79,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

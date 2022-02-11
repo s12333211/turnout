@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 39185b76d3856da469d88d221a977346
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trapPrefab: {fileID: 6398359603977613029, guid: 0b9fae6c81b63104a8e026ed4fa071ce,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
